@@ -84,7 +84,7 @@ const projects = [
 		gitHubLink: 'https://quiz-jet-seven.vercel.app/',
 	},
 	{
-		title: 'project-science',
+		title: 'project-science-01',
 		img: project09,
 		imgBig: project09big,
 		skills: 'HTML, SCSS , Javascript , React , Redux-toolkit , Firebase ',
