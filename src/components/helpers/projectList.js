@@ -21,7 +21,7 @@ import project07 from "./../../img/projects/pizza.png";
 import project07Big from "./../../img/projects/pizza.png";
 
 import project09 from "./../../img/projects/project-science.png";
-import project09 from "./../../img/projects/project-science.png";
+import project09big from "./../../img/projects/project-science.png";
 
 const projects = [
 	{
@@ -83,7 +83,7 @@ const projects = [
 	{
 		title: 'project-science',
 		img: project09,
-		imgBig: project09,
+		imgBig: project09big,
 		skills: 'HTML, SCSS , Javascript , React , Redux-toolkit , Firebase ',
 		gitHubLink: 'https://project-science-765433.web.app/login',
 	},
