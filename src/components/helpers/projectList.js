@@ -20,6 +20,9 @@ import project06Big from "./../../img/projects/slider-games.png";
 import project07 from "./../../img/projects/pizza.png";
 import project07Big from "./../../img/projects/pizza.png";
 
+import project08 from "./../../img/projects/quiz.png";
+import project08Big from "./../../img/projects/quiz.png";
+
 import project09 from "./../../img/projects/project-science.png";
 import project09big from "./../../img/projects/project-science.png";
 
