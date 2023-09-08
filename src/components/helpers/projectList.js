@@ -26,6 +26,9 @@ import project08Big from "./../../img/projects/quiz.png";
 import project09 from "./../../img/projects/project-science.png";
 import project09big from "./../../img/projects/project-science.png";
 
+
+import project10 from "./../../img/projects/shop-online.png";
+import project10big from "./../../img/projects/shop-online.png";
 const projects = [
 	{
 		title: 'Slider',
@@ -89,6 +92,13 @@ const projects = [
 		imgBig: project09big,
 		skills: 'HTML, SCSS , Javascript , React , Redux-toolkit , Firebase ',
 		gitHubLink: 'https://project-science-765433.web.app/login',
+	},
+	{
+		title: 'online-shop',
+		img: project10,
+		imgBig: project10big,
+		skills: 'HTML, SCSS , Javascript , React , Redux-toolkit , Firebase ',
+		gitHubLink: 'https://onlineshop1121334.web.app/ ',
 	},
 ];
 
