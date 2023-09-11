@@ -13,7 +13,7 @@ import { projects } from '../helpers/projectList';
 const Project = () => {
   const {id} = useParams();
   const project = projects[id];
-  console.log(project)
+
   return (
     <div>
         <main className="section">
@@ -27,8 +27,8 @@ const Project = () => {
                 <div className="project-details__desc">
                     <p>Skills: {project.skills}</p>
                 </div>
-                {project.gitHubLink && (
-                     <BtnGitHub link={project.gitHubLink}/>
+                {project.Link && (
+                     <BtnGitHub link={project.Link}/>
 
                 )}
 

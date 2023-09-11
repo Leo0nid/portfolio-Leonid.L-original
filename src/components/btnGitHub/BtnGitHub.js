@@ -7,7 +7,7 @@ const BtnGitHub = ({link}) => {
     <div>
          <a href={link} target="_blank" rel="noreferrer" className="btn-outline">
                     <img src={gitHub} alt=""/>
-                    GitHub repo
+                    Link
                 </a>
     </div>
   )
